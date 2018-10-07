@@ -23,17 +23,18 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="206dp"
+        android:layout_width="249dp"
         android:layout_height="34dp"
         android:layout_marginStart="89dp"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="89dp"
         android:fontFamily="@font/kanit_light"
-        android:text="THANAPAT WAEWSRI"
+        android:text="Pongsathorn Thongsawat"
         android:textAlignment="center"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/textView4"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
@@ -45,11 +46,12 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="89dp"
         android:fontFamily="@font/kanit_light"
-        android:text="Birth Date: May 25, 1996."
+        android:text="Birth Date: 31/07/1996"
         android:textAlignment="center"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/textView5"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
@@ -62,11 +64,12 @@
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="137dp"
         android:fontFamily="@font/kanit_light"
-        android:text="Direct: +66 (0) 80156-7071"
+        android:text="Contect : 0906080682"
         android:textAlignment="center"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
